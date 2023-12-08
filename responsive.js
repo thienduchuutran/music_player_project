@@ -15,6 +15,7 @@ const $$ = document.querySelectorAll.bind(document);
         const randomBtn = $('.btn-random')
         const repeatBtn = $('.btn-repeat')
         const playlist = $('.playlist')
+        const nothing = ''
 
 
       
